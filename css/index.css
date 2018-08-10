@@ -1,0 +1,14 @@
+.card-header>span {
+    color: #666;
+    font-size: 0.5rem;
+    margin-top: 0.3rem;
+}
+
+.divide-line {
+    border: 0.02rem solid ghostwhite;
+    margin-top: 0.5rem;
+}
+
+.col-25 {
+    text-align: center;
+}
